@@ -1,2 +1,6 @@
 desde la pc local
+
 mis cambios en el mismo archivo desde el local
+
+
+cambios que se esta realizando editando el mismo archivo
